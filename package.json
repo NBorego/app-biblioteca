@@ -1,0 +1,27 @@
+{
+  "name": "app-biblioteca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBorego/app-biblioteca.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Sanches Borego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBorego/app-biblioteca/issues"
+  },
+  "homepage": "https://github.com/NBorego/app-biblioteca#readme",
+  "description": "Aplicativo para controle de empréstimos de livros para Biblioteca Cidadã Cecília Meireles",
+  "devDependencies": {
+    "electron": "^38.3.0"
+  }
+}
